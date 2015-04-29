@@ -11,3 +11,8 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+www/
+provision/cookbooks/
+provision/site-cookbooks/wpcli/templates/default/wordpress-iptables.erb
+provision/site-cookbooks/
+.vagrant/
